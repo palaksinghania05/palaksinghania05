@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **palak.singhania_cs.ccv19@gla.ac.in**
 
-/*- 📄 Know about my experiences [https://docs.google.com/document/d/1IMQuPUxNLj4RO50ZxPBiR1HhNI-efkZL6tAyREY4k_8/edit?usp=sharing](https://docs.google.com/document/d/1IMQuPUxNLj4RO50ZxPBiR1HhNI-efkZL6tAyREY4k_8/edit?usp=sharing)*/
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

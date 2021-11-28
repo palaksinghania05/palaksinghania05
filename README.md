@@ -3,21 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palaksinghania05&label=Profile%20views&color=0e75b6&style=flat" alt="palaksinghania05" /> </p>
 
-- 🔭 I’m currently working on **Crypto Application Development.**
+- 🔭 I’m currently working on **Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **Containers, Flutter, Full Stack and React Native.**
+- 🌱 I’m currently learning **Kotlin, Full Stack and Docker.**
 
-- 👯 I’m looking to collaborate on **Web Development Projects.**
+- 👯 I’m looking to collaborate on **Android Development.**
 
 - 🤝 I’m looking for help with **UML structural designing.**
 
-- 💬 Ask me about **AWS and Java.**
+- 💬 Ask me about **Java, Flutter and AWS.**
 
 - 📫 How to reach me **palak.singhania_cs.ccv19@gla.ac.in**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1IMQuPUxNLj4RO50ZxPBiR1HhNI-efkZL6tAyREY4k_8/edit?usp=sharing](https://docs.google.com/document/d/1IMQuPUxNLj4RO50ZxPBiR1HhNI-efkZL6tAyREY4k_8/edit?usp=sharing)
 
-- ⚡ Fun fact **I don't understand slangs easily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

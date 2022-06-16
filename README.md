@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palaksinghania05&label=Profile%20views&color=0e75b6&style=flat" alt="palaksinghania05" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms.**
+- 🔭 I’m currently working on **DevOps Tools.**
 
-- 🌱 I’m currently learning **Kotlin, Full Stack and Docker.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **Android Development.**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Flutter and AWS.**
 
-- 📫 How to reach me **palak.singhania_cs.ccv19@gla.ac.in**
+- 📫 How to reach me **singhaniapalak2002@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

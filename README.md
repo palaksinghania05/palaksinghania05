@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Palak Singhania</h1>
-<h3 align="center">A cloud enthusiast and a passionate learner</h3>
+<h3 align="center">Aspiring Software Developer skilled in Flutter, with a passion for Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palaksinghania05&label=Profile%20views&color=0e75b6&style=flat" alt="palaksinghania05" /> </p>
 
-- 🔭 I’m currently working on **DevOps Tools.**
+- 🔭 I’m currently working on my **Data Structures and Algorithms** skills.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **DevOps Tools**.
 
-- 👯 I’m looking to collaborate on **Android Development.**
+- 👯 I’m looking to collaborate on **Flutter Project**.
 
 - 🤝 I’m looking for help with **UML structural designing.**
 
-- 💬 Ask me about **Java, Flutter and AWS.**
+- 💬 Ask me about **Java, Flutter, and Cloud Computing.**
 
 - 📫 How to reach me **singhaniapalak2002@gmail.com**
 
